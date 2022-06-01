@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/soporte/static/css/main.b40ade67.css",
+    "main.js": "/soporte/static/js/main.8178cafa.js",
+    "static/media/tec.jpg": "/soporte/static/media/tec.1a292fca3c988b0ab50b.jpg",
+    "index.html": "/soporte/index.html",
+    "main.b40ade67.css.map": "/soporte/static/css/main.b40ade67.css.map",
+    "main.8178cafa.js.map": "/soporte/static/js/main.8178cafa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b40ade67.css",
+    "static/js/main.8178cafa.js"
+  ]
+}
